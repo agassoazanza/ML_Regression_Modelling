@@ -11,6 +11,7 @@ In order to establish that, this document will cover:
 (4) Model Development and Variable Selection, and 
 (5) Model Comparison and Selection.  
 
-Recommendations on how this expected revenue per customer might be increased are based on the highest performing model results and provided at the end. 
+Recommendations on how this expected revenue per customer might be increased are based on the highest performing model results and provided
+briefly at the end. 
 
 Note that for privacy and ownership reasons only the code used will be provided here (not the dataset used).
