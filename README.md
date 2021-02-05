@@ -11,7 +11,9 @@ In order to establish that, this document will cover:
 (4) Model Development and Variable Selection, and 
 (5) Model Comparison and Selection.  
 
-Recommendations on how this expected revenue per customer might be increased are based on the highest performing model results and provided
-briefly at the end. 
+Actionable insights based on this analysis include:
+- Further qualitative research is encouraged to better understand the customer satisfaction issue  that is decreasing revenue by 29% for those customers who interacted with customer services more than 10 times.
+- Meal prep videos should not exceed 400 seconds in length, as revenues for customers who spend longer than that watching meal prep videos decreasy by 28%. Bare in mind this company's target customers look for cooking efficiency (e.g. busy professionals who want to prepare a fast and tasty dinner after arriving from work).
+- It is encouraged to convert those customers who haven't bought a unique meal yet, as the purchase of the first unique meal increases customer revenues by 25%. Ways to achieve this include preference tailoring or profile targetting during marked seasons (e.g. Valentine's Day).
 
 Note that for privacy and ownership reasons only the code used will be provided here (not the dataset used).
